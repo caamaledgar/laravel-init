@@ -8,7 +8,6 @@ $configData = Helper::appClasses();
 
 @section('content')
 <h4>Home Page</h4>
-<h3>Testing ITChina</h3>
-<h2>Prueba de Implementación</h2>
+<h3>Testing for ITChina</h3>
 
 @endsection
